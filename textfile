@@ -1,0 +1,9 @@
+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
+
+yum list | grep Apache Maven-3.5.4,
+
+docker run -d --name sonarqube -p 9000:9000 sonarqube:7.5-community
+
+sonarqube tocken
+
+b47ff595ee92bcfe3f6927bf66a9ad0fe2125c3b
