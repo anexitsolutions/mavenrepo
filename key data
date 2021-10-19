@@ -1,0 +1,8 @@
+yum list | grep Apache Maven-3.5.4,
+
+docker run -d --name sonarqube -p 9000:9000 sonarqube:7.5-community
+
+sonarqube tocken
+
+jenkins password
+3287c3b416534c079061793eae7dd9da
